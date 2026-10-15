@@ -8,6 +8,7 @@
 - [Conversational Ux](#conversational-ux)
 - [Natural Language Understanding](#natural-language-understanding)
 - [Platforms](#platforms)
+- [Testing](#testing)
 
 ## Books and Papers
 
@@ -51,3 +52,7 @@
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
+
+## Testing
+
+- [TestMu AI Agent Testing](https://www.testmuai.com/agent-testing/) - Tests chatbots, voice assistants and phone agents with simulated multi-turn conversations and real phone calls, and validates tool calls from Vapi, Retell, ElevenLabs and Agentforce.
